@@ -1,0 +1,2 @@
+- [ ] choosenim本地化，防止GitHub连接，加快下载速度
+  - [ ] init脚本本地化，直接托管在nim-lang-cn.org中，进一步提高nim初始化的速度和体验
